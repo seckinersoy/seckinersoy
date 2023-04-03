@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seckin</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <a href="https://twitter.com/seckinersoyy" target="blank"><img src="https://img.shields.io/twitter/follow/seckinersoyy?logo=twitter&style=for-the-badge" alt="seckinersoyy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
