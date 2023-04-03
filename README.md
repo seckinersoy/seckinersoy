@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seckin</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-🌍  I'm based in Ankara, Turkey
+🌍 <h1 align="left"> I'm based in Ankara, Turkey </h1>
 ✉️  You can contact me at seckinersoy06@gmail.com
 🧠  I'm learning React.
 
