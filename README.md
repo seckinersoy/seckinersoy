@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Seckin</h1>
-<h3 align="center">A passionate Frontend Developer from Turkey</h3>
+<h3 align="center">A passionate Mobile Developer from Turkey</h3>
 
 <h3 align="left"> 🌍 I'm based in Ankara, Turkey </h3>
-<h3 align="left"> 🧠 I'm learning React.</h3>
+<h3 align="left"> 🧠 I'm learning Flutter.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
